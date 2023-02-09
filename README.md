@@ -48,6 +48,18 @@ Within this code, you can see how:
 - To use defensive programming to ensure the user doesn't see errors
 - To handle while and for loops
 
+## USarrest_unsupervised_machine_learning
+This project looks at a small dataset and how to use unsupervised machine learning.
+
+Users can follow this project by downloading the code into an appropriate IDE such as Visual Studio Code.
+
+### Why use this?
+Within this code, you can see how:
+- To load data
+- Pre-process it to look for missing values and how to deal with it
+- Perform a little bit of machine learning on the dataset
+- Understand how to interpret the graphs plotted.
+
 
 ### Maintenance
 All projects are currently maintained by myself. If you need any help, just send me a message.
